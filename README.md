@@ -7,14 +7,14 @@ Primo Preinterview
 curl -fsSL https://bun.sh/install | bash
 ```
 
-## Execcute the code
+## Execute the code
 
 ```sh
-curl -fsSL https://bun.sh/install | bash
+bun run start
 ```
 
 ## Execute unittest
 
 ```sh
-curl -fsSL https://bun.sh/install | bash
+bun run test
 ```
